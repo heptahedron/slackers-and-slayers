@@ -1,6 +1,6 @@
 (defproject slackers-and-slayers "0.1.0-SNAPSHOT"
-  :description "FIXME: write description"
-  :url "http://example.com/FIXME"
+  :description "Little chatbot for Slack."
+  :url "https://github.com/heptahedron/slackers-and-slayers"
   :license {:name "Eclipse Public License"
             :url "http://www.eclipse.org/legal/epl-v10.html"}
   :dependencies [[org.clojure/clojure "1.8.0"]
